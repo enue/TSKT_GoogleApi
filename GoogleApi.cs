@@ -1,3 +1,7 @@
+// このコードはApache License 2.0で公開されたコードの改変を含みます
+// https://github.com/googlesamples/oauth-apps-for-windows
+// http://www.apache.org/licenses/
+
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
